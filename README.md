@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me about Mental Health.
-- 📫 How to reach me: Instagram:https://www.instagram.com/iam_ashraful_10/
+- 📫 How to reach me: Instagram: https://www.instagram.com/iam_ashraful_10/
 - 😄 Pronouns: You bro
 - ⚡ Fun fact: Sweet Heart!😁
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashraful-Hasan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraful-Hasan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
