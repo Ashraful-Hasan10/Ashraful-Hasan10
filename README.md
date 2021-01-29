@@ -5,12 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Ashraful-Hasan10)  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful-Hasan10)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraful-Hasan10)
-
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraful-Hasan10&show_icons=true)  
