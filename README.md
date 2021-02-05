@@ -1,7 +1,7 @@
 ### Hi there, I'm Zayed! 👋
 
-- 🔭 I’m currently working on Google.
-- 🌱 I’m currently learning Swift.
+- 🔭 I’m currently working on Programming Hero Team.
+- 🌱 I’m currently learning Typescript.
 
 ![Profile views](https://gpvc.arturio.dev/Ashraful-Hasan10)  
 
